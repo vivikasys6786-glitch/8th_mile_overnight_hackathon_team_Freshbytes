@@ -1,1 +1,6 @@
 # 8th_mile_overnight_hackathon_team_Freshbytes
+India spends than ₹70,000 crores each year on subsidies, for millions of small and marginal farmers. I see that the subsidies are meant to help the farmers. The money often never reaches the farmers because the fraud steals the money. The fraud uses farmer names, claims and moves subsidized goods into black markets. The current monitoring system uses records, manual audits and old verification steps. Those steps cannot catch the fraud patterns that spread across districts across seasons and, across dealer networks.
+
+I see that the shortage of inputs deprives the farmers during the key crop cycles. I see that the taxpayers fund deals without knowing. I see that the government programs do not deliver the economic benefits the government programs are meant to give. I see that the lack of a system that finds odd data links many farm records and checks eligibility for many people creates a big governance blind spot.
+
+There is an urgent need for a transparent, data-driven subsidy intelligence platform that can detect suspicious transactions, flag non-existent beneficiaries, and prevent subsidy leakages in real-time — ensuring agricultural support reaches the farmers who need it, when they need it.

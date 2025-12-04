@@ -41,6 +41,10 @@ Every subsidy issue (fertilizer/seed) is digitally recorded against the farmerâ€
 Rule-based detection highlights suspicious patterns such as oversized claims, duplicate usage, abnormal dealer behavior, and clustered ghost entries.
 
 6. AI-Based Land Verification (Prototype)
+7.   Officer Dashboard & Alerts
+
+A centralized dashboard shows total farmers, subsidy issued, suspicious alerts, risk scores, and dealer anomalies for fast decision-making.
+
 ## Tech stack
 
 
@@ -72,6 +76,3 @@ Tools
 GitHub (Version control & submissions)
 Farmers upload land photos with GPS metadata; neighbour cross-validation and AI checks help confirm crop type, soil consistency, and real farming activity.
 
-7. Officer Dashboard & Alerts
-
-A centralized dashboard shows total farmers, subsidy issued, suspicious alerts, risk scores, and dealer anomalies for fast decision-making.

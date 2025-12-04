@@ -41,7 +41,35 @@ Every subsidy issue (fertilizer/seed) is digitally recorded against the farmerâ€
 Rule-based detection highlights suspicious patterns such as oversized claims, duplicate usage, abnormal dealer behavior, and clustered ghost entries.
 
 6. AI-Based Land Verification (Prototype)
+## Tech stack
 
+
+Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+Backend
+
+Python (Flask Framework)
+
+Database / Storage
+
+JSON & CSV files
+(for storing farmer registrations, dealer claims, and flagged anomalies)
+
+AI Integration
+
+Land photo upload + GPS metadata verification (Prototype)
+
+Future Scope: ML-based land & crop validation
+
+Tools
+
+GitHub (Version control & submissions)
 Farmers upload land photos with GPS metadata; neighbour cross-validation and AI checks help confirm crop type, soil consistency, and real farming activity.
 
 7. Officer Dashboard & Alerts

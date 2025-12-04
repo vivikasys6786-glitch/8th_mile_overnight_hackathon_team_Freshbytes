@@ -19,3 +19,31 @@ The government currently lacks a centralized system to authenticate farmers, ver
 
 The core problem:
 India needs an intelligent, verifiable, real-time system that links farmer identity, land records, and subsidy transactions — and can automatically detect anomalies and potential fraud before the subsidy is misused.
+## key features of your solution
+1. E-Farmer ID (EFN) – Unified Digital Farmer Identity
+
+A unique, secure digital ID linked with Aadhaar (conceptually), family ration card, and verified land records to eliminate ghost farmers.
+
+2. Verified Land & Ownership Profile
+
+Includes GPS coordinates, land area, FMB sketch details, and tehsildar-certified records to prevent fake or inflated land claims.
+
+3. Entitlement-Based Subsidy Limits
+
+Automatic calculation of allowed fertilizer/seed quantity based on land size, crop type, soil characteristics, rainfall zone, and region.
+
+4. Dealer Transaction Logging
+
+Every subsidy issue (fertilizer/seed) is digitally recorded against the farmer’s EFN, enabling complete traceability and preventing black-market diversion.
+
+5. Real-Time Fraud & Anomaly Detection
+
+Rule-based detection highlights suspicious patterns such as oversized claims, duplicate usage, abnormal dealer behavior, and clustered ghost entries.
+
+6. AI-Based Land Verification (Prototype)
+
+Farmers upload land photos with GPS metadata; neighbour cross-validation and AI checks help confirm crop type, soil consistency, and real farming activity.
+
+7. Officer Dashboard & Alerts
+
+A centralized dashboard shows total farmers, subsidy issued, suspicious alerts, risk scores, and dealer anomalies for fast decision-making.
